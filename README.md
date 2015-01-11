@@ -1,4 +1,4 @@
-# Course Project 1 - R scripts and Plots
+## Course Project 1 - R scripts and Plots
 
 This repo includes the following:
 
